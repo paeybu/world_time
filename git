@@ -1,0 +1,5 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      560       1     560      13036  cons0     197609 23:03:23 /usr/bin/bash
+      595     560     595      12264  cons0     197609 23:03:32 /c/Users/pae/Documents/flutter/bin/flutter.bat
+      604       1     604      20980  cons1     197609 23:07:32 /usr/bin/bash
+      630     604     630      17948  cons1     197609 23:07:36 /usr/bin/PS
